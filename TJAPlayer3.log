@@ -1,0 +1,527 @@
+
+TJAPlayer3 5.2.10
+
+2023/03/12 12:37:00.676 [INFO] ----------------------
+2023/03/12 12:37:00.676 [INFO] ■ アプリケーションの初期化
+2023/03/12 12:37:00.691 [INFO] OS Version: Microsoft Windows NT 6.2.9200.0
+2023/03/12 12:37:00.691 [INFO] ProcessorCount: 2
+2023/03/12 12:37:00.691 [INFO] CLR Version: 4.0.30319.42000
+2023/03/12 12:37:01.495 [INFO] スキンの初期化を行います。
+2023/03/12 12:37:01.589 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\
+2023/03/12 12:37:01.605 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\02 Touhou Style\
+2023/03/12 12:37:01.652 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\03 iDOLM@STER Style\
+2023/03/12 12:37:01.683 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\04 Miku Style\
+2023/03/12 12:37:01.698 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\
+2023/03/12 12:37:01.698 [INFO]     SkinPath入力: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\
+2023/03/12 12:37:01.714 [INFO]     SkinPath設定: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Move.ogg)
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Decide.ogg)
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Change.ogg)
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Cancel.ogg)
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Audience.ogg)
+2023/03/12 12:37:01.917 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2023/03/12 12:37:01.917 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Full combo.ogg)
+2023/03/12 12:37:01.917 [WARNING]     System.NullReferenceException: Object reference not set to an instance of an object.
+   at TJAPlayer3.CSkin.Cシステムサウンド.t読み込み()
+   at TJAPlayer3.CSkin.ReloadSkin()
+2023/03/12 12:37:01.917 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\balloon.ogg)
+2023/03/12 12:37:01.917 [WARNING]     ファイルが存在しません。: Sounds\SongDecide.ogg
+2023/03/12 12:37:01.917 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2023/03/12 12:37:01.917 [WARNING]     ファイルが存在しません。: Sounds\ResultIn.ogg
+2023/03/12 12:37:01.917 [INFO]     システムサウンドを読み込みました。(Sounds\ResultIn.ogg)
+2023/03/12 12:37:01.995 [WARNING]     SkinConfigの値 Game_Chara_Beat_Clear は整数値である必要があります。現在の値: 0.5
+2023/03/12 12:37:01.995 [WARNING]     SkinConfigの値 Game_Balloon_Roll_Number_Scale は整数値である必要があります。現在の値: 1.000
+2023/03/12 12:37:01.995 [WARNING]     SkinConfigの値 Game_Balloon_Balloon_Number_Scale は整数値である必要があります。現在の値: 0.879
+2023/03/12 12:37:02.042 [ERROR]     System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at TJAPlayer3.CSkin.t文字列から読み込み(String strAllSettings)
+2023/03/12 12:37:02.042 [ERROR]     例外が発生しましたが処理を継続します。 (6a32cc37-1527-412e-968a-512c1f0135cd)
+2023/03/12 12:37:02.042 [INFO]     スキンの初期化を完了しました。
+2023/03/12 12:37:02.042 [INFO] タイマの初期化を行います。
+2023/03/12 12:37:02.052 [INFO]     タイマの初期化を完了しました。
+2023/03/12 12:37:02.052 [INFO] FPSカウンタの初期化を行います。
+2023/03/12 12:37:02.052 [INFO]     FPSカウンタを生成しました。
+2023/03/12 12:37:02.052 [INFO] 文字コンソールの初期化を行います。
+2023/03/12 12:37:02.052 [INFO]     文字コンソールを生成しました。
+2023/03/12 12:37:02.205 [INFO]     文字コンソールを活性化しました。
+2023/03/12 12:37:02.205 [INFO]     文字コンソールの初期化を完了しました。
+2023/03/12 12:37:02.206 [INFO] DirectInput, MIDI入力の初期化を行います。
+2023/03/12 12:37:02.517 [INFO]     Keyboard を生成しました。
+2023/03/12 12:37:02.520 [INFO]     Mouse を生成しました。
+2023/03/12 12:37:02.745 [INFO]     MIDI入力デバイス数: 0
+2023/03/12 12:37:02.746 [INFO]     DirectInput の初期化を完了しました。
+2023/03/12 12:37:02.746 [INFO] パッドの初期化を行います。
+2023/03/12 12:37:02.746 [INFO]     パッドの初期化を完了しました。
+2023/03/12 12:37:02.746 [INFO] サウンドデバイスの初期化を行います。
+2023/03/12 12:37:02.800 [INFO]     BASS (ASIO) の初期化を開始します。
+2023/03/12 12:37:03.114 [INFO]     BASS を初期化しました。(ASIO, デバイス:"ASIO4ALL v2", 入力2, 出力6, 44100Hz, バッファ64～2048sample (1.451～46.44ms), デバイスフォーマット:BASS_ASIO_FORMAT_32BIT)
+2023/03/12 12:37:03.119 [INFO]     ASIO デバイス出力開始：バッファ604sample(希望0) [13ms(希望0ms)]
+2023/03/12 12:37:03.131 [INFO]     BASS_CONFIG_UpdatePeriod=0
+2023/03/12 12:37:03.131 [INFO]     BASS_CONFIG_UpdateThreads=0
+2023/03/12 12:37:03.131 [INFO]     Initializing loudness scanning, song gain control, and sound group level control...
+2023/03/12 12:37:03.158 [INFO]         LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2023/03/12 12:37:03.165 [INFO]     Initialized loudness scanning, song gain control, and sound group level control.
+2023/03/12 12:37:03.166 [INFO]     サウンドデバイスの初期化を完了しました。
+2023/03/12 12:37:03.166 [INFO] 曲リストの初期化を行います。
+2023/03/12 12:37:03.168 [INFO]     曲リストの初期化を完了しました。
+2023/03/12 12:37:04.012 [INFO] アプリケーションの初期化を完了しました。
+2023/03/12 12:37:04.012 [INFO] ----------------------
+2023/03/12 12:37:04.013 [INFO] ■ 起動
+2023/03/12 12:37:04.013 [INFO] 起動ステージを活性化します。
+2023/03/12 12:37:04.104 [INFO]     起動ステージの活性化を完了しました。
+2023/03/12 12:37:04.194 [INFO] 0) システムサウンドを構築します。
+2023/03/12 12:37:04.195 [WARNING]     ファイルが存在しません。: Sounds\Setup BGM.ogg
+2023/03/12 12:37:04.326 [INFO]     システムサウンドを読み込みました。(Sounds\Move.ogg)
+2023/03/12 12:37:04.368 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.ogg)
+2023/03/12 12:37:04.414 [INFO]     システムサウンドを読み込みました。(Sounds\Change.ogg)
+2023/03/12 12:37:04.462 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.ogg)
+2023/03/12 12:37:04.483 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2023/03/12 12:37:04.484 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2023/03/12 12:37:04.484 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2023/03/12 12:37:04.533 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2023/03/12 12:37:04.567 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.ogg)
+2023/03/12 12:37:04.567 [WARNING]     ファイルが存在しません。: Sounds\SongDecide.ogg
+2023/03/12 12:37:04.567 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2023/03/12 12:37:04.567 [WARNING]     ファイルが存在しません。: Sounds\ResultIn.ogg
+2023/03/12 12:37:04.568 [INFO]     システムサウンドを読み込みました。(Sounds\ResultIn.ogg)
+2023/03/12 12:37:04.568 [INFO] 1) songlist.dbを読み込みます。
+2023/03/12 12:37:04.724 [INFO]     songlist.db の読み込みを完了しました。[63スコア]
+2023/03/12 12:37:04.725 [INFO] 2) songs.db を読み込みます。
+2023/03/12 12:37:04.786 [INFO]     songs.db の読み込みを完了しました。[250スコア]
+2023/03/12 12:37:04.789 [INFO] 起動所要時間: 00:00:00.5926428
+2023/03/12 12:37:04.838 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\Scanning_Loudness.png)
+2023/03/12 12:37:04.838 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\Overlay.png)
+2023/03/12 12:37:05.059 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\2_Config\KeyAssign.png)
+2023/03/12 12:37:05.164 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Header.png)
+2023/03/12 12:37:05.164 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Footer.png)
+2023/03/12 12:37:05.165 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Difficulty.png)
+2023/03/12 12:37:05.180 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Branch.png)
+2023/03/12 12:37:05.241 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_BackBox.png)
+2023/03/12 12:37:05.241 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Random.png)
+2023/03/12 12:37:05.288 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Cursor_Left.png)
+2023/03/12 12:37:05.289 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Cursor_Right.png)
+2023/03/12 12:37:05.422 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_0.png)
+2023/03/12 12:37:05.423 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_1.png)
+2023/03/12 12:37:05.423 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_2.png)
+2023/03/12 12:37:05.423 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_3.png)
+2023/03/12 12:37:05.423 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_4.png)
+2023/03/12 12:37:05.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_5.png)
+2023/03/12 12:37:05.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_6.png)
+2023/03/12 12:37:05.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_7.png)
+2023/03/12 12:37:05.424 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\Frame_Box_8.png)
+2023/03/12 12:37:05.425 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_0.png)
+2023/03/12 12:37:05.425 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_1.png)
+2023/03/12 12:37:05.425 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_2.png)
+2023/03/12 12:37:05.425 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_3.png)
+2023/03/12 12:37:05.426 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_4.png)
+2023/03/12 12:37:05.426 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_5.png)
+2023/03/12 12:37:05.426 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_6.png)
+2023/03/12 12:37:05.791 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\3_SongSelect\ScoreWindow_Text.png)
+2023/03/12 12:37:06.062 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\Notes_Arm.png)
+2023/03/12 12:37:06.119 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\8_Footer\0.png)
+2023/03/12 12:37:06.141 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\5_Background\0\Background.png)
+2023/03/12 12:37:06.393 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
+2023/03/12 12:37:06.393 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
+2023/03/12 12:37:06.673 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\1P_Hard.png)
+2023/03/12 12:37:06.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\2P_Hard.png)
+2023/03/12 12:37:06.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\1P_ExHard.png)
+2023/03/12 12:37:06.674 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\2P_ExHard.png)
+2023/03/12 12:37:06.695 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\1P_Base_Hard.png)
+2023/03/12 12:37:06.695 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\2P_Base_Hard.png)
+2023/03/12 12:37:06.695 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\1P_Base_ExHard.png)
+2023/03/12 12:37:06.696 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\2P_Base_ExHard.png)
+2023/03/12 12:37:06.713 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\1P_Line_Hard.png)
+2023/03/12 12:37:06.713 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\7_Gauge\2P_Line_Hard.png)
+2023/03/12 12:37:08.988 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\17_DanC\ExamRange.png)
+2023/03/12 12:37:09.264 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Gauge_Hard.png)
+2023/03/12 12:37:09.264 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Gauge_ExHard.png)
+2023/03/12 12:37:09.264 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Gauge_Base_Hard.png)
+2023/03/12 12:37:09.264 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Gauge_Base_ExHard.png)
+2023/03/12 12:37:09.278 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Header.png)
+2023/03/12 12:37:09.315 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Score_Text.png)
+2023/03/12 12:37:09.329 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\6_Result\Dan.png)
+2023/03/12 12:37:09.431 [INFO] 起動ステージを非活性化します。
+2023/03/12 12:37:09.454 [INFO]     起動ステージの非活性化を完了しました。
+2023/03/12 12:37:09.454 [INFO] ----------------------
+2023/03/12 12:37:09.454 [INFO] ■ タイトル
+2023/03/12 12:37:09.454 [INFO] タイトルステージを活性化します。
+2023/03/12 12:37:09.455 [INFO]     タイトルステージの活性化を完了しました。
+2023/03/12 12:37:09.757 [INFO] ★曲データ検索スレッドを起動しました。
+2023/03/12 12:37:09.765 [INFO] enum2) 曲データを検索します。
+2023/03/12 12:37:09.765 [INFO]     検索パス: C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\
+2023/03/12 12:37:10.003 [WARNING]         CDTXCompanionFileFinder could not find expected file 'C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\C' and could not search for appropriate sibling files because this file has no extension.
+2023/03/12 12:37:10.003 [WARNING]         CDTXCompanionFileFinder could not find expected file 'C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\C' by any available means.
+2023/03/12 12:37:10.351 [WARNING]         CDTXCompanionFileFinder could not find expected file 'C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\' and could not search for appropriate sibling files because this file has no extension.
+2023/03/12 12:37:10.351 [WARNING]         CDTXCompanionFileFinder could not find expected file 'C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\' by any available means.
+2023/03/12 12:37:10.645 [WARNING]         CDTXCompanionFileFinder could not find expected file 'C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\005 - WTF\MooX - WTF.mp4' by any available means.
+2023/03/12 12:37:11.397 [INFO]         CDTXCompanionFileFinder could not find expected file 'C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\026 - Lost Emotion\Lost Emotion..mp4' but found 'Lost Emotion.mp4' by searching for a single sibling file with the expected extension.
+2023/03/12 12:37:12.509 [INFO]     曲データの検索を完了しました。[64曲64スコア]
+2023/03/12 12:37:12.509 [INFO] enum3) songs.db の情報を曲リストへ反映します。
+2023/03/12 12:37:12.514 [INFO]     曲リストへの反映を完了しました。[238/64スコア]
+2023/03/12 12:37:12.514 [INFO] 64, 238
+2023/03/12 12:37:12.516 [INFO] enum4) songs.db になかった曲データ[-174スコア]の情報をファイルから読み込んで反映します。
+2023/03/12 12:37:12.645 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\003 - Breaking Point\Breaking Point.tja.score.ini]
+2023/03/12 12:37:12.646 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.646 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.653 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\003 - Breaking Point\Breaking Point.tja.score.ini]
+2023/03/12 12:37:12.654 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.654 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.660 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\003 - Breaking Point\Breaking Point.tja.score.ini]
+2023/03/12 12:37:12.661 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.661 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.668 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\003 - Breaking Point\Breaking Point.tja.score.ini]
+2023/03/12 12:37:12.668 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.668 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.674 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\003 - Breaking Point\Breaking Point.tja.score.ini]
+2023/03/12 12:37:12.674 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.674 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.698 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\006 - Athazagoraphobia\Athazagoraphobia.tja.score.ini]
+2023/03/12 12:37:12.698 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.698 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.705 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\006 - Athazagoraphobia\Athazagoraphobia.tja.score.ini]
+2023/03/12 12:37:12.705 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.705 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.712 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\006 - Athazagoraphobia\Athazagoraphobia.tja.score.ini]
+2023/03/12 12:37:12.712 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.712 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.721 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\006 - Athazagoraphobia\Athazagoraphobia.tja.score.ini]
+2023/03/12 12:37:12.722 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.722 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.729 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\08 OpenTaiko Original\006 - Athazagoraphobia\Athazagoraphobia.tja.score.ini]
+2023/03/12 12:37:12.729 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.729 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.751 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\S1 Dan-i Dojo\99. 例段\ReiDan.tja.score.ini]
+2023/03/12 12:37:12.751 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.751 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.758 [ERROR]     演奏記録ファイルの読み込みに失敗しました。[C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\S2 Taiko Towers\Gewissenbisse (Tower)\Gewissenbisse.tja.score.ini]
+2023/03/12 12:37:12.759 [ERROR]     System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TJAPlayer3.CSongs管理.tScoreIniを読み込んで譜面情報を設定する(String strScoreIniファイルパス, Cスコア score)
+2023/03/12 12:37:12.759 [ERROR]     例外が発生しましたが処理を継続します。 (801f823d-a952-4809-a1bb-cf6a56194f5c)
+2023/03/12 12:37:12.759 [INFO]     曲データへの反映を完了しました。[17/-174スコア]
+2023/03/12 12:37:12.759 [INFO] enum5) 曲リストへの後処理を適用します。
+2023/03/12 12:37:12.773 [INFO]     曲リストへの後処理を完了しました。
+2023/03/12 12:37:12.773 [INFO] enum6) 曲データの情報を songs.db へ出力します。
+2023/03/12 12:37:12.786 [INFO]     songs.db への出力を完了しました。[255スコア]
+2023/03/12 12:37:12.787 [INFO] enum7) 曲データの情報を songlist.db へ出力します。
+2023/03/12 12:37:12.872 [INFO]     songlist.db への出力を完了しました。[255スコア]
+2023/03/12 12:37:12.872 [INFO] 曲探索所要時間: 00:00:03.1068897
+2023/03/12 12:37:13.296 [INFO] タイトルステージを非活性化します。
+2023/03/12 12:37:13.296 [INFO]     タイトルステージの非活性化を完了しました。
+2023/03/12 12:37:13.297 [INFO] ----------------------
+2023/03/12 12:37:13.297 [INFO] ■ 選曲
+2023/03/12 12:37:13.297 [INFO] 選曲ステージを活性化します。
+2023/03/12 12:37:13.330 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\Screen option panels.png)
+2023/03/12 12:37:13.338 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_preimage panel.png)
+2023/03/12 12:37:13.338 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_preimage default.png)
+2023/03/12 12:37:13.341 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_information_BG.png)
+2023/03/12 12:37:13.341 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_information.png)
+2023/03/12 12:37:13.342 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_information2.png)
+2023/03/12 12:37:13.343 [INFO]     選曲ステージの活性化を完了しました。
+2023/03/12 12:37:13.853 [WARNING] ファイルが存在しません。: Sounds\Select BGM.ogg
+2023/03/12 12:37:16.640 [INFO] プレビューサウンドを生成しました。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\乱数調整のリバースシンデレラ.ogg)
+2023/03/12 12:37:22.338 [INFO] 選曲ステージを非活性化します。
+2023/03/12 12:37:22.369 [INFO]     選曲ステージの非活性化を完了しました。
+2023/03/12 12:37:22.369 [INFO] ----------------------
+2023/03/12 12:37:22.369 [INFO] ■ 曲読み込み
+2023/03/12 12:37:22.370 [INFO] 曲読み込みステージを活性化します。
+2023/03/12 12:37:22.494 [INFO]     曲読み込みステージの活性化を完了しました。
+2023/03/12 12:37:22.506 [WARNING] ファイルが存在しません。: Sounds\Now loading.ogg
+2023/03/12 12:37:22.518 [INFO] ----曲情報-----------------
+2023/03/12 12:37:22.518 [INFO] TITLE: 乱数調整のリバースシンデレラ
+2023/03/12 12:37:22.519 [INFO] FILE: C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\乱数調整のリバースシンデレラ.tja
+2023/03/12 12:37:22.519 [INFO] ---------------------------
+2023/03/12 12:37:22.519 [INFO] DTX読込所要時間:           00:00:00.0070036
+2023/03/12 12:37:23.658 [INFO] WAV読込所要時間(   1):     00:00:01.1386725
+2023/03/12 12:37:23.736 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_Game\5_Background\0\Background.png)
+2023/03/12 12:37:23.779 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\Dan_Plate.png)
+2023/03/12 12:37:23.780 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Sounds\Dan\Section.ogg
+2023/03/12 12:37:23.780 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Sounds\Dan\Failed.ogg
+2023/03/12 12:37:24.490 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\Dan_Plate.png)
+2023/03/12 12:37:24.490 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Sounds\Dan\Section.ogg
+2023/03/12 12:37:24.490 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Sounds\Dan\Failed.ogg
+2023/03/12 12:37:24.513 [INFO] 総読込時間:                00:00:02.0007595
+2023/03/12 12:37:25.340 [INFO] 曲読み込みステージを非活性化します。
+2023/03/12 12:37:25.342 [INFO]     曲読み込みステージの非活性化を完了しました。
+2023/03/12 12:37:25.342 [INFO] ----------------------
+2023/03/12 12:37:25.342 [INFO] ■ 演奏（ドラム画面）
+2023/03/12 12:37:25.365 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\loading.png)
+2023/03/12 12:38:54.190 [INFO] CLagLogger.LogAndReturnMeanLag: Mean lag: -9.51935483870968. Median lag: -10. Mode(s) of lag: -17,-8. Standard deviation of lag: 24.9484231753954.
+2023/03/12 12:38:54.190 [INFO] CLagLogger.LogAndReturnMeanLag: Hit chip counts, indexed by lag in milliseconds:
+-105,-64,-63,-61,-58,-57,-55,-54,-52,-49,-48,-45,-42,-41,-39,-38,-37,-36,-35,-34,-33,-32,-30,-29,-27,-26,-25,-24,-23,-21,-20,-18,-17,-16,-15,-14,-13,-12,-11,-10,-8,-7,-5,-4,-2,-1,1,2,4,5,6,7,8,9,10,11,12,13,14,15,17,18,20,21,23,24,26,27,30,31,32,34,36,37,42,43,55,56,58,73,77,82,102
+1,1,1,2,1,1,1,2,3,2,1,4,4,3,4,2,1,3,2,5,5,8,3,4,9,4,2,5,7,7,7,2,12,4,7,7,6,3,8,8,12,5,9,9,11,10,5,8,8,7,4,1,2,2,2,4,5,2,4,2,3,2,2,3,1,1,2,1,1,2,2,3,3,1,1,1,1,1,1,1,1,1,1
+2023/03/12 12:38:54.191 [INFO] CStage演奏画面共通 リソースの開放
+2023/03/12 12:38:54.206 [INFO] LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2023/03/12 12:38:54.206 [INFO] ----------------------
+2023/03/12 12:38:54.206 [INFO] ■ 選曲
+2023/03/12 12:38:54.206 [INFO] 選曲ステージを活性化します。
+2023/03/12 12:38:54.206 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\Screen option panels.png)
+2023/03/12 12:38:54.223 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_preimage panel.png)
+2023/03/12 12:38:54.223 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_preimage default.png)
+2023/03/12 12:38:54.224 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_information_BG.png)
+2023/03/12 12:38:54.224 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_information.png)
+2023/03/12 12:38:54.224 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\5_information2.png)
+2023/03/12 12:38:54.231 [INFO]     選曲ステージの活性化を完了しました。
+2023/03/12 12:38:54.516 [INFO] プレビューサウンドを生成しました。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\乱数調整のリバースシンデレラ.ogg)
+2023/03/12 12:38:55.415 [INFO] 選曲ステージを非活性化します。
+2023/03/12 12:38:55.418 [INFO]     選曲ステージの非活性化を完了しました。
+2023/03/12 12:38:55.418 [INFO] ----------------------
+2023/03/12 12:38:55.418 [INFO] ■ タイトル
+2023/03/12 12:38:55.418 [INFO] タイトルステージを活性化します。
+2023/03/12 12:38:55.418 [INFO]     タイトルステージの活性化を完了しました。
+2023/03/12 12:38:56.484 [INFO] タイトルステージを非活性化します。
+2023/03/12 12:38:56.484 [INFO]     タイトルステージの非活性化を完了しました。
+2023/03/12 12:38:56.484 [INFO] ----------------------
+2023/03/12 12:38:56.484 [INFO] ■ コンフィグ
+2023/03/12 12:38:56.485 [INFO] コンフィグステージを活性化します。
+2023/03/12 12:38:56.486 [INFO]     コンフィグステージの活性化を完了しました。
+2023/03/12 12:38:56.539 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\Graphics\Screen option panels.png)
+2023/03/12 12:38:56.563 [WARNING] DrawPrivateFont()の入力不正。最小値のbitmapを返します。
+2023/03/12 12:39:02.402 [INFO] コンフィグステージを非活性化します。
+2023/03/12 12:39:02.461 [INFO]     スキン変更:C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\
+2023/03/12 12:39:02.464 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\01 Switch Style\
+2023/03/12 12:39:02.464 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\02 Touhou Style\
+2023/03/12 12:39:02.464 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\03 iDOLM@STER Style\
+2023/03/12 12:39:02.464 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\04 Miku Style\
+2023/03/12 12:39:02.464 [INFO]     SkinPath検出: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\
+2023/03/12 12:39:02.464 [INFO]     SkinPath入力: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\
+2023/03/12 12:39:02.465 [INFO]     SkinPath設定: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\
+2023/03/12 12:39:02.481 [WARNING]     ファイルが存在しません。: Sounds\Move.ogg
+2023/03/12 12:39:02.481 [INFO]     システムサウンドを読み込みました。(Sounds\Move.ogg)
+2023/03/12 12:39:02.482 [WARNING]     ファイルが存在しません。: Sounds\Decide.ogg
+2023/03/12 12:39:02.482 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.ogg)
+2023/03/12 12:39:02.482 [WARNING]     ファイルが存在しません。: Sounds\Change.ogg
+2023/03/12 12:39:02.482 [INFO]     システムサウンドを読み込みました。(Sounds\Change.ogg)
+2023/03/12 12:39:02.482 [WARNING]     ファイルが存在しません。: Sounds\Cancel.ogg
+2023/03/12 12:39:02.482 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.ogg)
+2023/03/12 12:39:02.482 [WARNING]     ファイルが存在しません。: Sounds\Audience.ogg
+2023/03/12 12:39:02.482 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2023/03/12 12:39:02.482 [WARNING]     ファイルが存在しません。: Sounds\Game start.ogg
+2023/03/12 12:39:02.482 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2023/03/12 12:39:02.483 [WARNING]     ファイルが存在しません。: Sounds\Full combo.ogg
+2023/03/12 12:39:02.483 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2023/03/12 12:39:02.510 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.ogg)
+2023/03/12 12:39:02.510 [WARNING]     ファイルが存在しません。: Sounds\SongDecide.ogg
+2023/03/12 12:39:02.510 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2023/03/12 12:39:02.510 [WARNING]     ファイルが存在しません。: Sounds\ResultIn.ogg
+2023/03/12 12:39:02.510 [INFO]     システムサウンドを読み込みました。(Sounds\ResultIn.ogg)
+2023/03/12 12:39:02.521 [WARNING]     SkinConfigの値 Game_Chara_Beat_Clear は整数値である必要があります。現在の値: 0.5
+2023/03/12 12:39:02.521 [WARNING]     SkinConfigの値 Game_Balloon_Roll_Number_Scale は整数値である必要があります。現在の値: 1.000
+2023/03/12 12:39:02.521 [WARNING]     SkinConfigの値 Game_Balloon_Balloon_Number_Scale は整数値である必要があります。現在の値: 0.879
+2023/03/12 12:39:02.583 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\Scanning_Loudness.png)
+2023/03/12 12:39:02.583 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\Overlay.png)
+2023/03/12 12:39:02.583 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\1P_NamePlate.png)
+2023/03/12 12:39:02.583 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\2P_NamePlate.png)
+2023/03/12 12:39:02.681 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\2_Config\Cursor.png)
+2023/03/12 12:39:02.681 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\2_Config\ItemBox.png)
+2023/03/12 12:39:02.681 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\2_Config\Arrow.png)
+2023/03/12 12:39:02.682 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\2_Config\KeyAssign.png)
+2023/03/12 12:39:02.716 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\2_Config\Enum_Song.png)
+2023/03/12 12:39:02.759 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Header.png)
+2023/03/12 12:39:02.759 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Footer.png)
+2023/03/12 12:39:02.760 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Difficulty.png)
+2023/03/12 12:39:02.785 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Branch.png)
+2023/03/12 12:39:02.874 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_BackBox.png)
+2023/03/12 12:39:02.874 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Random.png)
+2023/03/12 12:39:02.910 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Cursor_Left.png)
+2023/03/12 12:39:02.911 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Cursor_Right.png)
+2023/03/12 12:39:03.068 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_0.png)
+2023/03/12 12:39:03.069 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_1.png)
+2023/03/12 12:39:03.069 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_2.png)
+2023/03/12 12:39:03.069 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_3.png)
+2023/03/12 12:39:03.069 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_4.png)
+2023/03/12 12:39:03.070 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_5.png)
+2023/03/12 12:39:03.070 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_6.png)
+2023/03/12 12:39:03.070 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_7.png)
+2023/03/12 12:39:03.071 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\Frame_Box_8.png)
+2023/03/12 12:39:03.071 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_0.png)
+2023/03/12 12:39:03.071 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_1.png)
+2023/03/12 12:39:03.071 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_2.png)
+2023/03/12 12:39:03.072 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_3.png)
+2023/03/12 12:39:03.072 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_4.png)
+2023/03/12 12:39:03.072 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_5.png)
+2023/03/12 12:39:03.073 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_6.png)
+2023/03/12 12:39:03.548 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\3_SongSelect\ScoreWindow_Text.png)
+2023/03/12 12:39:03.586 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\4_SongLoading\Plate.png)
+2023/03/12 12:39:03.824 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\Notes_Arm.png)
+2023/03/12 12:39:04.973 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\8_Footer\0.png)
+2023/03/12 12:39:04.988 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\5_Background\0\Background.png)
+2023/03/12 12:39:05.277 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\6_Taiko\1P_PlayerNumber.png)
+2023/03/12 12:39:05.277 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\6_Taiko\2P_PlayerNumber.png)
+2023/03/12 12:39:05.540 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P.png)
+2023/03/12 12:39:05.540 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P.png)
+2023/03/12 12:39:05.541 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Hard.png)
+2023/03/12 12:39:05.541 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Hard.png)
+2023/03/12 12:39:05.541 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_ExHard.png)
+2023/03/12 12:39:05.542 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_ExHard.png)
+2023/03/12 12:39:05.542 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Base.png)
+2023/03/12 12:39:05.542 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Base.png)
+2023/03/12 12:39:05.542 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Base_Hard.png)
+2023/03/12 12:39:05.543 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Base_Hard.png)
+2023/03/12 12:39:05.543 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Base_ExHard.png)
+2023/03/12 12:39:05.543 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Base_ExHard.png)
+2023/03/12 12:39:05.544 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Line.png)
+2023/03/12 12:39:05.544 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Line.png)
+2023/03/12 12:39:05.544 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Line_Hard.png)
+2023/03/12 12:39:05.545 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Line_Hard.png)
+2023/03/12 12:39:05.545 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\Soul.png)
+2023/03/12 12:39:05.546 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\Fire.png)
+2023/03/12 12:39:05.546 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\1P_Explosion.png)
+2023/03/12 12:39:05.546 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\7_Gauge\2P_Explosion.png)
+2023/03/12 12:39:05.557 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\11_Balloon\Combo_1P.png)
+2023/03/12 12:39:05.557 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\11_Balloon\Combo_2P.png)
+2023/03/12 12:39:05.587 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\11_Balloon\Number_Combo.png)
+2023/03/12 12:39:05.798 [ERROR]     System.IO.FileNotFoundException: ファイルが存在しません。
+[C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\10_Effects\Hit\Explosion.png]
+   at FDK.CTextureAf.MakeTexture(DeviceCache device, String strファイル名, Format format, Boolean b黒を透過する, Pool pool) in C:\projects\tjaplayer3\FDK19\コード\04.グラフィック\CTextureAutofold.cs:line 55
+   at TJAPlayer3.TJAPlayer3.tテクスチャの生成Af(String fileName, Boolean b黒を透過する)
+2023/03/12 12:39:05.799 [ERROR]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\10_Effects\Hit\Explosion.png)
+2023/03/12 12:39:05.799 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\10_Effects\Hit\Explosion_Big.png)
+2023/03/12 12:39:05.880 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\10_Effects\Fire.png)
+2023/03/12 12:39:06.821 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_L_0.png)
+2023/03/12 12:39:06.821 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_L_1.png)
+2023/03/12 12:39:06.821 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_L_2.png)
+2023/03/12 12:39:06.821 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_L_3.png)
+2023/03/12 12:39:06.822 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_L_4.png)
+2023/03/12 12:39:06.822 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_R_0.png)
+2023/03/12 12:39:06.822 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_R_1.png)
+2023/03/12 12:39:06.822 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_R_2.png)
+2023/03/12 12:39:06.822 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_R_3.png)
+2023/03/12 12:39:06.823 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_R_4.png)
+2023/03/12 12:39:06.823 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_Text.png)
+2023/03/12 12:39:06.823 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\9_End\Clear_Text_Effect.png)
+2023/03/12 12:39:07.220 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\17_DanC\ExamRange.png)
+2023/03/12 12:39:07.423 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Gauge.png)
+2023/03/12 12:39:07.423 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Gauge_Base.png)
+2023/03/12 12:39:07.423 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Gauge_Hard.png)
+2023/03/12 12:39:07.423 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Gauge_ExHard.png)
+2023/03/12 12:39:07.424 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Gauge_Base_Hard.png)
+2023/03/12 12:39:07.424 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Gauge_Base_ExHard.png)
+2023/03/12 12:39:07.427 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Header.png)
+2023/03/12 12:39:07.443 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Score_Text.png)
+2023/03/12 12:39:07.456 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\6_Result\Dan.png)
+2023/03/12 12:39:07.633 [INFO]     BASS (ASIO) の初期化を開始します。
+2023/03/12 12:39:07.642 [INFO]     BASS を初期化しました。(ASIO, デバイス:"ASIO4ALL v2", 入力2, 出力6, 44100Hz, バッファ64～2048sample (1.451～46.44ms), デバイスフォーマット:BASS_ASIO_FORMAT_32BIT)
+2023/03/12 12:39:07.643 [INFO]     ASIO デバイス出力開始：バッファ604sample(希望0) [13ms(希望0ms)]
+2023/03/12 12:39:07.655 [INFO]     BASS_CONFIG_UpdatePeriod=0
+2023/03/12 12:39:07.655 [INFO]     BASS_CONFIG_UpdateThreads=0
+2023/03/12 12:39:07.655 [INFO]     コンフィグステージの非活性化を完了しました。
+2023/03/12 12:39:07.655 [INFO] ----------------------
+2023/03/12 12:39:07.656 [INFO] ■ タイトル
+2023/03/12 12:39:07.656 [INFO] タイトルステージを活性化します。
+2023/03/12 12:39:07.656 [INFO]     タイトルステージの活性化を完了しました。
+2023/03/12 12:39:08.170 [WARNING] ファイルが存在しません。: Sounds\Title.ogg
+2023/03/12 12:39:09.074 [INFO] タイトルステージを非活性化します。
+2023/03/12 12:39:09.074 [INFO]     タイトルステージの非活性化を完了しました。
+2023/03/12 12:39:09.074 [INFO] ----------------------
+2023/03/12 12:39:09.074 [INFO] ■ 選曲
+2023/03/12 12:39:09.075 [INFO] 選曲ステージを活性化します。
+2023/03/12 12:39:09.075 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\Screen option panels.png)
+2023/03/12 12:39:09.092 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_preimage panel.png)
+2023/03/12 12:39:09.092 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_preimage default.png)
+2023/03/12 12:39:09.092 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_information_BG.png)
+2023/03/12 12:39:09.092 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_information.png)
+2023/03/12 12:39:09.092 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_information2.png)
+2023/03/12 12:39:09.201 [INFO]     選曲ステージの活性化を完了しました。
+2023/03/12 12:39:09.726 [WARNING] ファイルが存在しません。: Sounds\Select BGM.ogg
+2023/03/12 12:39:12.006 [INFO] プレビューサウンドを生成しました。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\乱数調整のリバースシンデレラ.ogg)
+2023/03/12 12:39:13.873 [INFO] 選曲ステージを非活性化します。
+2023/03/12 12:39:13.876 [INFO]     選曲ステージの非活性化を完了しました。
+2023/03/12 12:39:13.876 [INFO] ----------------------
+2023/03/12 12:39:13.876 [INFO] ■ 曲読み込み
+2023/03/12 12:39:13.876 [INFO] 曲読み込みステージを活性化します。
+2023/03/12 12:39:13.936 [INFO]     曲読み込みステージの活性化を完了しました。
+2023/03/12 12:39:13.941 [WARNING] ファイルが存在しません。: Sounds\Now loading.ogg
+2023/03/12 12:39:13.966 [INFO] ----曲情報-----------------
+2023/03/12 12:39:13.966 [INFO] TITLE: 乱数調整のリバースシンデレラ
+2023/03/12 12:39:13.966 [INFO] FILE: C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\乱数調整のリバースシンデレラ.tja
+2023/03/12 12:39:13.966 [INFO] ---------------------------
+2023/03/12 12:39:13.966 [INFO] DTX読込所要時間:           00:00:00.0070047
+2023/03/12 12:39:15.200 [INFO] WAV読込所要時間(   1):     00:00:01.2336383
+2023/03/12 12:39:15.247 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\5_Game\5_Background\0\Background.png)
+2023/03/12 12:39:15.247 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Sounds\Clear.ogg
+2023/03/12 12:39:15.248 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\Dan_Plate.png)
+2023/03/12 12:39:15.260 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Sounds\Dan\Failed.ogg
+2023/03/12 12:39:15.310 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Sounds\Clear.ogg
+2023/03/12 12:39:15.330 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\Dan_Plate.png)
+2023/03/12 12:39:15.332 [WARNING] [i18n] File does not exist: C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Sounds\Dan\Failed.ogg
+2023/03/12 12:39:15.338 [INFO] 総読込時間:                00:00:01.3782607
+2023/03/12 12:39:16.884 [INFO] 曲読み込みステージを非活性化します。
+2023/03/12 12:39:16.886 [INFO]     曲読み込みステージの非活性化を完了しました。
+2023/03/12 12:39:16.887 [INFO] ----------------------
+2023/03/12 12:39:16.887 [INFO] ■ 演奏（ドラム画面）
+2023/03/12 12:39:16.900 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\loading.png)
+2023/03/12 12:41:21.219 [INFO] CLagLogger.LogAndReturnMeanLag: Mean lag: -5.77915632754342. Median lag: -7. Mode(s) of lag: -14,-5. Standard deviation of lag: 24.5687037358189.
+2023/03/12 12:41:21.219 [INFO] CLagLogger.LogAndReturnMeanLag: Hit chip counts, indexed by lag in milliseconds:
+-108,-75,-61,-58,-57,-52,-49,-47,-46,-45,-44,-43,-42,-39,-38,-37,-36,-35,-32,-30,-29,-28,-27,-26,-25,-24,-23,-22,-21,-20,-19,-18,-17,-16,-14,-13,-11,-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,20,23,24,25,26,27,28,29,30,31,33,36,37,39,41,43,44,46,50,58,63,71,76,89,96,98,108
+1,1,1,1,1,2,2,2,1,3,1,2,1,4,2,1,3,4,7,8,10,4,1,9,8,4,8,5,3,13,7,1,14,6,18,13,9,11,1,8,17,1,18,6,7,9,6,4,3,11,4,1,10,5,5,5,2,5,7,2,6,8,1,6,6,2,4,3,2,1,3,2,2,4,2,2,1,2,2,1,2,1,1,2,1,1,1,1,1,1,1,1
+2023/03/12 12:41:21.219 [INFO] CStage演奏画面共通 リソースの開放
+2023/03/12 12:41:21.224 [INFO] LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2023/03/12 12:41:21.224 [INFO] ----------------------
+2023/03/12 12:41:21.224 [INFO] ■ 結果
+2023/03/12 12:41:21.228 [INFO] 結果ステージを活性化します。
+2023/03/12 12:41:21.228 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\loading.png)
+2023/03/12 12:41:21.231 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\OpenTaiko.Pre.v0.6.0.b1\OpenTaiko Pre v0.6.0 b1\Songs\01 Pop\乱数調整のリバースシンデレラ\Dan_Plate.png)
+2023/03/12 12:41:21.238 [WARNING]     テクスチャファイルが見つかりませんでした。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\System\05 Stream Style\Graphics\Screen option panels.png)
+2023/03/12 12:41:21.238 [INFO]     結果ステージの活性化を完了しました。
+2023/03/12 12:41:21.756 [INFO] ----------------------
+2023/03/12 12:41:21.756 [INFO] ■ アプリケーションの終了
+2023/03/12 12:41:21.756 [INFO] 曲検索actの終了処理を行います。
+2023/03/12 12:41:21.756 [INFO]     曲検索actの終了処理を完了しました。
+2023/03/12 12:41:21.756 [INFO] 現在のステージを終了します。
+2023/03/12 12:41:21.757 [INFO]     現在のステージの終了処理を完了しました。
+2023/03/12 12:41:21.758 [INFO] [Discord] Shutdowned.
+2023/03/12 12:41:21.758 [INFO] 曲リストの終了処理を行います。
+2023/03/12 12:41:21.758 [INFO]     曲リストの終了処理を完了しました。
+2023/03/12 12:41:21.798 [INFO] スキンの終了処理を行います。
+2023/03/12 12:41:21.798 [INFO]     スキンの終了処理を完了しました。
+2023/03/12 12:41:21.798 [INFO] DirectSound の終了処理を行います。
+2023/03/12 12:41:21.814 [INFO]     DirectSound の終了処理を完了しました。
+2023/03/12 12:41:21.814 [INFO] パッドの終了処理を行います。
+2023/03/12 12:41:21.814 [INFO]     パッドの終了処理を完了しました。
+2023/03/12 12:41:21.814 [INFO] DirectInput, MIDI入力の終了処理を行います。
+2023/03/12 12:41:21.815 [INFO]     DirectInput, MIDI入力の終了処理を完了しました。
+2023/03/12 12:41:21.816 [INFO] 文字コンソールの終了処理を行います。
+2023/03/12 12:41:21.816 [INFO]     文字コンソールの終了処理を完了しました。
+2023/03/12 12:41:21.816 [INFO] FPSカウンタの終了処理を行います。
+2023/03/12 12:41:21.816 [INFO]     FPSカウンタの終了処理を完了しました。
+2023/03/12 12:41:21.816 [INFO] タイマの終了処理を行います。
+2023/03/12 12:41:21.816 [INFO]     タイマの終了処理を完了しました。
+2023/03/12 12:41:21.816 [INFO] Config.ini を出力します。
+2023/03/12 12:41:21.817 [INFO]     保存しました。(C:\Users\Administrator\Downloads\TJAP3-20230311T132529Z-001\TJAP3\Config.ini)
+2023/03/12 12:41:21.818 [INFO] Deinitializing loudness scanning, song gain control, and sound group level control...
+2023/03/12 12:41:21.818 [INFO] Deinitialized loudness scanning, song gain control, and sound group level control.
+2023/03/12 12:41:21.818 [INFO] アプリケーションの終了処理を完了しました。
+
+遊んでくれてありがとう！

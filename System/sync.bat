@@ -1,0 +1,1 @@
+rclone sync -P --exclude *.ini --exclude *.rating --dry-run tjap3system:/ .
